@@ -1,11 +1,27 @@
 # n-reinas-ajedrez-metodo-general
 
-en la variable numer_tablero -->pon el numero de casillas del tablero EJ: 8
+Metodo lógico parecido a aplicar un ábaco, se explica en la pagina -->https://problema-de-las-1000-reinas-resuelto.blogspot.com/2019/08/metodo-general-8-reinas.html
+
+Para el codigo -->en la variable numer_tablero -->pon el numero de casillas del tablero EJ: 8
 en la variable coor_y  -->pon la coordenada y que es la posicion de la reina en x=1, en la que empieza a calcular, si quisieras sacar todas
 las reinas de un tablero de 8 tendrias que ir poniendo y ejecutando: coor_y=1, coor_y=2, coor_y=3, coor_y=4,
 coor_y=5, coor_y=6, coor_y=7, coor_y=8
 
 En el directorio C crea una carpeta con el nombre de "queen", es donde escribe el fichero
+
+
+
+
+![Alt text](https://github.com/carlfei/n-reinas-ajedrez-metodo-general/blob/master/1.png "")
+![Alt text](https://github.com/carlfei/n-reinas-ajedrez-metodo-general/blob/master/2.png "")
+
+
+![Alt text](https://github.com/carlfei/n-reinas-ajedrez-metodo-general/blob/master/3.png "")
+![Alt text](https://github.com/carlfei/n-reinas-ajedrez-metodo-general/blob/master/4.png "")
+
+
+
+
 
 Para  numer_tablero=8 y coor_y=6, el codigo genera un fichero:
 
